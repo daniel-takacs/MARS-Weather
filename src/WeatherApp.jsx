@@ -12,7 +12,9 @@ function WeatherApp() {
               "Loading..."
           ) : (
             <div>
-     
+      {data.map((d) => (
+        <li>{d.maxTemp}</li>
+      ))}
             </div>
           )}  
         </>
