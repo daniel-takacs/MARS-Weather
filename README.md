@@ -1,0 +1,1 @@
+InSight has temporarily suspended daily weather measurements.
